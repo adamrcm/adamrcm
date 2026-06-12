@@ -1,6 +1,6 @@
 # Hi, I'm Adam! 👋
 
-I'm an aspiring software developer passionate about building intuitive mobile apps, integrating generative AI, and solving complex technical problems—both in software and hardware.
+I'm an aspiring software developer passionate about building random things that benifit my day to day life!
 
 ## 🚀 What I'm Up To
 * **CURRENT - Mylo:** iOS app that integrates Google Generative AI with native voice synthesis as a desk companion.
